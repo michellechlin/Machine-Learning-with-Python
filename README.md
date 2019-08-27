@@ -24,12 +24,11 @@ Click Terminal to open the terminal window.
 ```
 $ jupyter notebook # launch the Jupyter Notebook App
 ```
-Usful commands:
+Useful commands:
 ```
 $ clear # clear the command line
 $ Ctr-C # shut-down the Jupyter Notebook
 ```
 ## Useful Links:
 [1]  https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/
-
 [2]  https://www.pieriandata.com/
