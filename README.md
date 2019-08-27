@@ -31,4 +31,5 @@ $ Ctr-C # shut-down the Jupyter Notebook
 ```
 ## Useful Links:
 [1]  https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/
+
 [2]  https://www.pieriandata.com/
