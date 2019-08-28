@@ -34,4 +34,4 @@ $ Ctr-C # shut-down the Jupyter Notebook
 
 [2]  https://www.pieriandata.com/
 
-[3]  https://medium.com/@josemarcialportilla/getting-spark-python-and-jupyter-notebook-running-on-amazon-ec2-dec599e1c297
+[[3]  Getting Spark, Python, and Jupyter Notebook running on Amazon EC2](https://medium.com/@josemarcialportilla/getting-spark-python-and-jupyter-notebook-running-on-amazon-ec2-dec599e1c297) 
