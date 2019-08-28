@@ -3,7 +3,7 @@
 * [General Info](#general-info)
 * [Technologies](#technologies)
 * [Usage](#usage)
-* [Reference](#reference)
+* [References](#references)
 
 ## General Info
 
