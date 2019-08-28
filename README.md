@@ -33,3 +33,5 @@ $ Ctr-C # shut-down the Jupyter Notebook
 [1]  https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/
 
 [2]  https://www.pieriandata.com/
+
+[3]  https://medium.com/@josemarcialportilla/getting-spark-python-and-jupyter-notebook-running-on-amazon-ec2-dec599e1c297
