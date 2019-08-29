@@ -3,6 +3,7 @@
 * [General Info](#general-info)
 * [Technologies](#technologies)
 * [Usage](#usage)
+* [Certificate](#certificate)
 * [References](#references)
 
 ## General Info
@@ -29,6 +30,9 @@ Useful commands:
 $ clear # clear the command line
 $ Ctr-C # shut-down the Jupyter Notebook
 ```
+## Certificate:
+[Udemy certificate](https://www.udemy.com/certificate/UC-Q8OMH8GY/) completed on Aug 28, 2019 
+
 ## References:
 [1]  https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/
 
